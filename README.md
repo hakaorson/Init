@@ -20,3 +20,9 @@ Host dmb_target
     Port 22
     User root
     ProxyCommand ssh -q -W %h:%p dmb_jump
+
+Other config:
+ssh gaopan@jump01.sh.sensetime.com
+(Google veriation)
+(AD password)
+10.5.34.21
